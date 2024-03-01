@@ -3,6 +3,8 @@
 
 #include "../core/Shape.h"
 
+#define MSDFGEN_DISABLE_SVG
+
 #ifndef MSDFGEN_DISABLE_SVG
 
 #ifndef MSDFGEN_EXT_PUBLIC
